@@ -32,7 +32,7 @@ When you run behat...
 * Fork this project
 * Create a new feature file (maybe user-list.feature?)
 * Define it, following the project examples (more details about how to define features [here](http://docs.behat.org/guides/1.gherkin.html))
-* Run `bin/behat -f snippets` to get the method skeleton to acomplish your feature requirements, add them to `feature/bootstrap/FeatureContext.php` and implement the needed coded inside them.
+* Run `bin/behat -f snippets` to get the method skeleton to accomplish your feature requirements, add them to `feature/bootstrap/FeatureContext.php` and implement the needed coded inside them.
 * Run `bin/behat -v` and check if all tests passed
 * Problems or suggestions? Submit a pull request and I will try to help through them ;-)
 
